@@ -16,7 +16,7 @@ if num==2:
 elif prime==False:
      print(num,'is not a prime number.')
 else:
-    print("Number ", num, "is a prime number.")
+    print("Number", num, "is a prime number.")
     
 
 
