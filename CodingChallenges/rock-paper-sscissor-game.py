@@ -49,7 +49,7 @@ def game():
                     return False
                       
             elif computer_input == "paper" and lower_case == "rock":
-                print("paper beats rock - user wins")
+                print("paper beats rock - computer wins")
                 comp_wins+=1
                 if user_wins==3:
                     print(f"User won {user_wins} time(s) and computer won {comp_wins} time(s)")
