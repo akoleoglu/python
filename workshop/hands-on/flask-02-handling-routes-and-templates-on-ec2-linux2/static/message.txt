@@ -1,0 +1,4 @@
+I am a static page ... You don't have to write route for me... 
+<html>
+<h1> Just Pass me to the client </h1>
+</html>
